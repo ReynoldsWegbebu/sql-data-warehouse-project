@@ -113,8 +113,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
+Hi there! I'm **Reynolds Wegbebu**, I’m a GIS and Remote Sensing Analyst and passionate Data Analyst and a Village Boy who is interested in Web Development with focus in GIS Application.
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
